@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to Precode Path
+``` learn things in simplifiled ways
 
 You can use the [editor on GitHub](https://github.com/sshelake25/poc/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
